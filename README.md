@@ -1,6 +1,4 @@
-Dotfiles for my i3 Linux. Using Manjaro
-
-NOTE: TODO PROGRAM DOESN'T WORK PERFECTLY
+Dotfiles for my i3 Linux. Using Manjaro distro
 
 Requirements/recommendations:
 
