@@ -20,5 +20,5 @@ keycode 48 = apostrophe quotedbl adiaeresis Adiaeresis
 
 ! Use <> key as Shift in Finnish layout
 !
-!keycode 94 = less greater less greater bar brokenbar bar
-keyvode 94 = Shift_L NoSymbol Shift_L
+keycode 94 = less greater less greater bar brokenbar bar
+keycode 94 = Shift_L NoSymbol Shift_L
